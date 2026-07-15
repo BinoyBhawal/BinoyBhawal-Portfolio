@@ -3366,6 +3366,13 @@ header .mobile-menu {
 .section-tech-stack .tech-stack-item .image {
     margin-bottom: 25px;
 }
+.section-tech-stack .tech-stack-item .image img {
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    object-position: center;
+    margin: 0 auto;
+}
 .section-tech-stack.v2 {
     margin-top: 0;
 }
